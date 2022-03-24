@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../Computer-vision"
+		},
+		{
+			"name": "Machine-learning",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
