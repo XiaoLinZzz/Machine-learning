@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Computer-vision"
+		},
+		{
+			"path": "../Downloads/Solutions-Stanford-cs131-Computer-Vision-Foundations-and-Application-master"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true,
+		"jupyter.jupyterServerType": "local"
+	}
+}
