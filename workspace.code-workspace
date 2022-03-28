@@ -1,12 +1,15 @@
 {
 	"folders": [
 		{
+			"name": "Machine-learning",
 			"path": "."
 		},
 		{
+			"name": "Computer-vision",
 			"path": "../Computer-vision"
 		},
 		{
+			"name": "Solutions-Stanford-cs131-Computer-Vision-Foundations-and-Application-master",
 			"path": "../Downloads/Solutions-Stanford-cs131-Computer-Vision-Foundations-and-Application-master"
 		}
 	],
